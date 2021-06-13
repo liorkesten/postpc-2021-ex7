@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848248235278",
+    "project_id": "huji-postpc-ex7",
+    "storage_bucket": "huji-postpc-ex7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848248235278:android:ab2e8ea7388b086e07a35f",
+        "android_client_info": {
+          "package_name": "huji.postpc.exercises.rachelsorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848248235278-g11rv5mjp1avs6c1pcgr7r2t4h56akn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30kIzD-jhsOr9lOfEF2O_Cds9zeEDBUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848248235278-g11rv5mjp1avs6c1pcgr7r2t4h56akn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
